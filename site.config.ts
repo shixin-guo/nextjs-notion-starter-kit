@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Share something',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
-  // linkedin: 'fisch2',
+  twitter: 'gzponline',
+  github: 'shixin-guo',
+  linkedin: 'shixin-guo-796136a8',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
